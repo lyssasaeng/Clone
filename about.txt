@@ -1,1 +1,7 @@
-Here is a text file where I want to add some information about me!I love being artistic in any artistic field. From cinematography to acting. One of my favorite artistic accomplishments is when I won state in the film category for a reflections contest in school. I felt so proud of myself because my film is displayed in this really big museum in salt lake city called The Leonardo Art Museum. One of the newest things I'm trying is playing my favorite songs on the guitar, selling art, and writing a book I'm enthusiastic about.
+Here is a text file where I want to add some information about me!
+I love being artistic in any artistic field. From cinematography to acting. 
+One of my favorite artistic accomplishments is when I won state in the film category for a 
+reflections contest in school. I felt so proud of myself because my film is displayed in this 
+really big museum in salt lake city called The Leonardo Art Museum. One of the newest things 
+I'm trying is playing my favorite songs on the guitar, selling art, and writing a book I'm enthusiastic
+ about.
